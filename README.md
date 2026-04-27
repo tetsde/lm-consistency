@@ -10,8 +10,6 @@ Mục tiêu của project là trả lời 3 câu hỏi:
 
 1. Nếu chỉ gọi model một lần, kết quả baseline trông như thế nào?
 2. Nếu gọi model nhiều lần rồi tổng hợp kết quả, chất lượng có tốt hơn không?
-3. Với bài toán reasoning tự do, nên vote trực tiếp trên nhãn hay gom theo ngữ nghĩa?
-
 ## Repo gồm những gì?
 
 - [baseline.ipynb](./baseline.ipynb)  
